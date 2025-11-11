@@ -1,4 +1,4 @@
-# Hello, and welcome to Duke Applied Machine Learning 2.0! 
+# Hello, and Welcome to Duke Applied Machine Learning 2.0! 
 
 This is the new GitHub Organization for DAML starting Spring 2026. This site is intended to be the home of all the project repositories that we will be doing from now on. 
 
